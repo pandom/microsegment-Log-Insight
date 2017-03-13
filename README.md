@@ -1,3 +1,10 @@
-# My Awesome Book
+# Segment any application with VMware NSX and VMware Log Insight
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+The goal of this is book is to provide
+
+* A method of segmenting any application
+* Use syslog and Distributed Firewall tags to identify flows
+* Leverage inbuilt functionality to segment individual applications with NSX for vSphere
+
+
