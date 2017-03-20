@@ -1,9 +1,10 @@
-# Segment any application with VMware NSX and VMware Log Insight
+#Introduction
 
 NSX for vSphere allows the Distributed Firewall to enforce at the vNIC of every workload. This results in the ability to provide security boundaries at the point connectivity for a workload. Therefore it is crucial to understand the north/south traffic patterns in conjunction with east/west communications. The granular enforcement points means that security administrators need to protect at a new enforcement point.
 
 The goal of this is book is to provide readers with the ability to use syslog to help segment any application. The approach discussed in this Day One book will allow administrators to:
 
+* Benefits of centralised logs
 * Understand the use of Distributed Firewall tags
 * Utilising log functionality to collect traffic data
 * Visualise log data in a syslog platform such as VMware Log Insight
